@@ -1,7 +1,7 @@
 ## Pre Work
 
 ## Link
-[https://pre-work.netlify.app/](https://pre-work.netlify.app/).
+[https://pre-work.netlify.app/](https://pre-work.netlify.app/)
 ### Task 1
 The Core Components That Make Up The User Interface are:
 
